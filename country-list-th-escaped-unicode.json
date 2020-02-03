@@ -121,7 +121,7 @@
   },
   {
     "name": "\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e43\u0e15\u0e49",
-    "enName": "Korea (Republic of)",
+    "enName": "South Korea",
     "alpha2": "KR",
     "alpha3": "KOR",
     "numeric": "410",
@@ -129,7 +129,7 @@
   },
   {
     "name": "\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d",
-    "enName": "Korea (Democratic People's Republic of)",
+    "enName": "North Korea",
     "alpha2": "KP",
     "alpha3": "PRK",
     "numeric": "408",
@@ -433,7 +433,7 @@
   },
   {
     "name": "\u0e0b\u0e39\u0e14\u0e32\u0e19",
-    "enName": "",
+    "enName": "Sudan",
     "alpha2": "SD",
     "alpha3": "SDN",
     "numeric": "736",
@@ -537,7 +537,7 @@
   },
   {
     "name": "\u0e41\u0e0b\u0e07\u0e21\u0e32\u0e23\u0e4c\u0e41\u0e15\u0e07",
-    "enName": "Saint Martin (French part)",
+    "enName": "Saint Martin",
     "alpha2": "MF",
     "alpha3": "MAF",
     "numeric": "663",
@@ -657,7 +657,7 @@
   },
   {
     "name": "\u0e44\u0e15\u0e49\u0e2b\u0e27\u0e31\u0e19",
-    "enName": "Taiwan, Province of China",
+    "enName": "Taiwan",
     "alpha2": "TW",
     "alpha3": "TWN",
     "numeric": "158",
@@ -673,7 +673,7 @@
   },
   {
     "name": "\u0e41\u0e17\u0e19\u0e0b\u0e32\u0e40\u0e19\u0e35\u0e22",
-    "enName": "Tanzania, United Republic of",
+    "enName": "Tanzania",
     "alpha2": "TZ",
     "alpha3": "TZA",
     "numeric": "834",
@@ -766,14 +766,6 @@
     "alpha3": "NLD",
     "numeric": "528",
     "iso3166_2": "ISO 3166-2:NL"
-  },
-  {
-    "name": "\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c\u0e41\u0e2d\u0e19\u0e17\u0e34\u0e25\u0e25\u0e35\u0e2a",
-    "enName": "",
-    "alpha2": "AN",
-    "alpha3": "ANT",
-    "numeric": "530",
-    "iso3166_2": "ISO 3166-2:AN"
   },
   {
     "name": "\u0e40\u0e19\u0e1b\u0e32\u0e25",
@@ -937,7 +929,7 @@
   },
   {
     "name": "\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22",
-    "enName": "Bolivia (Plurinational State of)",
+    "enName": "Bolivia",
     "alpha2": "BO",
     "alpha3": "BOL",
     "numeric": "68",
@@ -985,7 +977,7 @@
   },
   {
     "name": "\u0e1b\u0e32\u0e40\u0e25\u0e2a\u0e44\u0e15\u0e19\u0e4c",
-    "enName": "Palestine, State of",
+    "enName": "Palestine",
     "alpha2": "PS",
     "alpha3": "PSE",
     "numeric": "275",
@@ -1137,7 +1129,7 @@
   },
   {
     "name": "\u0e21\u0e2d\u0e25\u0e42\u0e14\u0e27\u0e32",
-    "enName": "Moldova (Republic of)",
+    "enName": "Moldova",
     "alpha2": "MD",
     "alpha3": "MDA",
     "numeric": "498",
@@ -1168,8 +1160,8 @@
     "iso3166_2": "ISO 3166-2:MO"
   },
   {
-    "name": "\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22",
-    "enName": "Macedonia (the former Yugoslav Republic of)",
+    "name": "\u0e19\u0e2d\u0e23\u0e4c\u0e17\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22",
+    "enName": "North Macedonia",
     "alpha2": "MK",
     "alpha3": "MKD",
     "numeric": "807",
@@ -1257,7 +1249,7 @@
   },
   {
     "name": "\u0e44\u0e21\u0e42\u0e04\u0e23\u0e19\u0e35\u0e40\u0e0b\u0e35\u0e22",
-    "enName": "Micronesia (Federated States of)",
+    "enName": "Micronesia",
     "alpha2": "FM",
     "alpha3": "FSM",
     "numeric": "583",
@@ -1353,7 +1345,7 @@
   },
   {
     "name": "\u0e25\u0e32\u0e27",
-    "enName": "Lao People's Democratic Republic",
+    "enName": "Laos",
     "alpha2": "LA",
     "alpha3": "LAO",
     "numeric": "418",
@@ -1425,7 +1417,7 @@
   },
   {
     "name": "\u0e40\u0e27\u0e40\u0e19\u0e0b\u0e38\u0e40\u0e2d\u0e25\u0e32",
-    "enName": "Venezuela (Bolivarian Republic of)",
+    "enName": "Venezuela",
     "alpha2": "VE",
     "alpha3": "VEN",
     "numeric": "862",
@@ -1521,7 +1513,7 @@
   },
   {
     "name": "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e04\u0e2d\u0e07\u0e42\u0e01",
-    "enName": "Congo (Republic of the)",
+    "enName": "Republic of the Congo",
     "alpha2": "CG",
     "alpha3": "COG",
     "numeric": "178",
@@ -1537,7 +1529,7 @@
   },
   {
     "name": "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e18\u0e34\u0e1b\u0e44\u0e15\u0e22\u0e04\u0e2d\u0e07\u0e42\u0e01",
-    "enName": "Congo (Democratic Republic of the)",
+    "enName": "Democratic Republic of the Congo",
     "alpha2": "CD",
     "alpha3": "COD",
     "numeric": "180",
@@ -1609,7 +1601,7 @@
   },
   {
     "name": "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e1a\u0e23\u0e34\u0e15\u0e34\u0e0a\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e08\u0e34\u0e19",
-    "enName": "Virgin Islands (British)",
+    "enName": "British Virgin Islands",
     "alpha2": "VG",
     "alpha3": "VGB",
     "numeric": "92",
@@ -1625,7 +1617,7 @@
   },
   {
     "name": "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e1f\u0e2d\u0e25\u0e4c\u0e01\u0e41\u0e25\u0e19\u0e14\u0e4c",
-    "enName": "Falkland Islands (Malvinas)",
+    "enName": "Falkland Islands",
     "alpha2": "FK",
     "alpha3": "FLK",
     "numeric": "238",
@@ -1649,7 +1641,7 @@
   },
   {
     "name": "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e08\u0e34\u0e19\u0e02\u0e2d\u0e07\u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e2d\u0e40\u0e21\u0e23\u0e34\u0e01\u0e32",
-    "enName": "Virgin Islands (U.S.)",
+    "enName": "United States Virgin Islands",
     "alpha2": "VI",
     "alpha3": "VIR",
     "numeric": "850",
@@ -1976,8 +1968,8 @@
     "iso3166_2": "ISO 3166-2:HT"
   },
   {
-    "name": "\u0e0b\u0e34\u0e19\u0e15\u0e4c\u0e21\u0e32\u0e23\u0e4c\u0e40\u0e15\u0e34\u0e19 (\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c)",
-    "enName": "Sint Maarten (Dutch part)",
+    "name": "\u0e0b\u0e34\u0e19\u0e15\u0e4c\u0e21\u0e32\u0e23\u0e4c\u0e40\u0e15\u0e34\u0e19",
+    "enName": "Sint Maarten",
     "alpha2": "SX",
     "alpha3": "SXM",
     "numeric": "534",
